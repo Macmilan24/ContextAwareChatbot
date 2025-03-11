@@ -1,0 +1,9 @@
+sentence-transformers
+datasets
+gradio
+nltk
+numpy
+torch
+networkx
+scikit-learn
+pandas

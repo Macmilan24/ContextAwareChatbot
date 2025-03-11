@@ -1,4 +1,3 @@
-````markdown
 # Context-Aware Conversational Search System
 
 ## Overview
@@ -88,6 +87,7 @@ The system emulates a chatbot experience, processing user inputs, retaining conv
 git clone https://github.com/Macmilan24/ContextAwareChatbot.git
 cd ContextAwareChatbot
 ```
+
 ````
 
 ### 2. Install Dependencies
@@ -152,5 +152,4 @@ Recommendations:
 Developed by Samuel Dagne as part of Group 2 Trainee Program, March 2025.
 
 ```
-
-```
+````

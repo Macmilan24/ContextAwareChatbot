@@ -148,7 +148,3 @@ Recommendations:
 ## Credits
 
 Developed by Samuel Dagne as part of Group 2 Trainee Program, March 2025.
-
-```
-
-```

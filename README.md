@@ -88,8 +88,6 @@ git clone https://github.com/Macmilan24/ContextAwareChatbot.git
 cd ContextAwareChatbot
 ```
 
-````
-
 ### 2. Install Dependencies
 
 ```bash
@@ -152,4 +150,5 @@ Recommendations:
 Developed by Samuel Dagne as part of Group 2 Trainee Program, March 2025.
 
 ```
-````
+
+```
